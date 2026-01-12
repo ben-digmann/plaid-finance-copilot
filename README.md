@@ -2,7 +2,6 @@
 
 A full-stack example that ingests banking and investment data from Plaid, visualizes budgets and investments, and includes a generative AI chat that answers questions about your finances.
 
-> ⚠️ **Security note:** Don’t share real API keys in chat. Store secrets in a `.env` file. If you pasted secrets earlier, rotate them in your provider dashboards.
 
 ## What’s inside
 - **server/** Node/Express API

@@ -2,6 +2,9 @@
 
 A full-stack example that ingests banking and investment data from Plaid, visualizes budgets and investments, and includes a generative AI chat that answers questions about your finances.
 
+<img width="1412" height="838" alt="image" src="https://github.com/user-attachments/assets/57fde943-36eb-41ff-b790-b140a2fea127" />
+
+
 
 ## What’s inside
 - **server/** Node/Express API
